@@ -12,4 +12,4 @@ You can download the decryptor in Releases.
 <br>
 You will need .NET Framework to run this software.
 <br>
-UPDATE: Sorry, the program's name was supposed to be Decryptor not Decrypter
+UPDATE: Sorry, the program's name was supposed to be Decryptor not Decrypter. I will fix that spelling in a new release.
