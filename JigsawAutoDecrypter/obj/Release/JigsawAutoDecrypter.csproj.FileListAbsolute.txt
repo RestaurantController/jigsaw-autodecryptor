@@ -18,3 +18,13 @@ C:\Users\Test\Desktop\JigsawAutoDecrypter\JigsawAutoDecrypter\obj\Release\Jigsaw
 \\VBOXSVR\Jigsaw_Auto-Decrypter\JigsawAutoDecrypter\obj\Release\JigsawAutoDecrypter.csproj.CoreCompileInputs.cache
 \\VBOXSVR\Jigsaw_Auto-Decrypter\JigsawAutoDecrypter\obj\Release\JigsawAutoDecrypter.exe
 \\VBOXSVR\Jigsaw_Auto-Decrypter\JigsawAutoDecrypter\obj\Release\JigsawAutoDecrypter.pdb
+Z:\JigsawAutoDecrypter\bin\Release\JigsawAutoDecryptor.exe.config
+Z:\JigsawAutoDecrypter\bin\Release\JigsawAutoDecryptor.exe
+Z:\JigsawAutoDecrypter\bin\Release\JigsawAutoDecryptor.pdb
+Z:\JigsawAutoDecrypter\obj\Release\JigsawAutoDecrypter.csprojAssemblyReference.cache
+Z:\JigsawAutoDecrypter\obj\Release\JigsawAutoDecrypter.Form1.resources
+Z:\JigsawAutoDecrypter\obj\Release\JigsawAutoDecryptor.Properties.Resources.resources
+Z:\JigsawAutoDecrypter\obj\Release\JigsawAutoDecrypter.csproj.GenerateResource.cache
+Z:\JigsawAutoDecrypter\obj\Release\JigsawAutoDecrypter.csproj.CoreCompileInputs.cache
+Z:\JigsawAutoDecrypter\obj\Release\JigsawAutoDecryptor.exe
+Z:\JigsawAutoDecrypter\obj\Release\JigsawAutoDecryptor.pdb

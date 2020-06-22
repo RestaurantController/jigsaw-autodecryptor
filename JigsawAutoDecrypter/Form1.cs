@@ -119,5 +119,19 @@ namespace JigsawAutoDecrypter
             label5.Text = "Status: Decryption Complete!";
             textBox1.ReadOnly = false;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process process = new System.Diagnostics.Process();
+            process.StartInfo.FileName = "taskkill.exe";
+            process.StartInfo.Arguments = "/f /im drpbx.exe";
+            process.StartInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
+            process.Start();
+            System.Diagnostics.Process process2 = new System.Diagnostics.Process();
+            process2.StartInfo.FileName = "taskkill.exe";
+            process2.StartInfo.Arguments = "/f /im firefox.exe";
+            process2.StartInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
+            process2.Start();
+        }
     }
 }

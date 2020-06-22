@@ -18,3 +18,13 @@ C:\Users\Test\Desktop\JigsawAutoDecrypter\JigsawAutoDecrypter\obj\Debug\JigsawAu
 \\VBOXSVR\Jigsaw_Auto-Decrypter\JigsawAutoDecrypter\obj\Debug\JigsawAutoDecrypter.csproj.CoreCompileInputs.cache
 \\VBOXSVR\Jigsaw_Auto-Decrypter\JigsawAutoDecrypter\obj\Debug\JigsawAutoDecrypter.exe
 \\VBOXSVR\Jigsaw_Auto-Decrypter\JigsawAutoDecrypter\obj\Debug\JigsawAutoDecrypter.pdb
+Z:\JigsawAutoDecrypter\bin\Debug\JigsawAutoDecryptor.exe.config
+Z:\JigsawAutoDecrypter\bin\Debug\JigsawAutoDecryptor.exe
+Z:\JigsawAutoDecrypter\bin\Debug\JigsawAutoDecryptor.pdb
+Z:\JigsawAutoDecrypter\obj\Debug\JigsawAutoDecrypter.csprojAssemblyReference.cache
+Z:\JigsawAutoDecrypter\obj\Debug\JigsawAutoDecrypter.Form1.resources
+Z:\JigsawAutoDecrypter\obj\Debug\JigsawAutoDecryptor.Properties.Resources.resources
+Z:\JigsawAutoDecrypter\obj\Debug\JigsawAutoDecrypter.csproj.GenerateResource.cache
+Z:\JigsawAutoDecrypter\obj\Debug\JigsawAutoDecrypter.csproj.CoreCompileInputs.cache
+Z:\JigsawAutoDecrypter\obj\Debug\JigsawAutoDecryptor.exe
+Z:\JigsawAutoDecrypter\obj\Debug\JigsawAutoDecryptor.pdb

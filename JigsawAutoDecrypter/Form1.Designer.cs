@@ -36,6 +36,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -102,11 +103,22 @@
             this.label5.TabIndex = 6;
             this.label5.Text = "Status: Idle";
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(87, 146);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(146, 22);
+            this.button2.TabIndex = 7;
+            this.button2.Text = "Terminate Jigsaw(BETA)";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(345, 354);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -119,7 +131,7 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.ShowIcon = false;
-            this.Text = "Jigsaw Auto-Decrypter 1.0";
+            this.Text = "Jigsaw Auto-Decryptor 1.1";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -134,6 +146,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button button2;
     }
 }
 
