@@ -15,3 +15,5 @@ You can download the decryptor in Releases.
 You will need .NET Framework to run this software.
 <br>
 UPDATE: Sorry, the project's name was supposed to be Decryptor not Decrypter. I don't think I will be fixing the project name, but I did fix the program name in version 1.1
+<br>
+The next version will have another key.
