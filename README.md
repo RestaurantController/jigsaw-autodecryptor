@@ -10,7 +10,7 @@ It's pretty easy to use the decryptor. Just open the downloaded decryptor, enter
 <br>
 You can download the decryptor in Releases.
 <br>
-<b>IMPORTANT:</b> You need the encrypted files list otherwise it won't be able to get the encrypted files. Also, the encryption password must be Jigsaw's default encryption password(OoIsAwwF23cICQoLDA0ODe==).
+<b>IMPORTANT:</b> You need the encrypted files list otherwise it won't be able to get the encrypted files. Also, the encryption password must be Jigsaw's default encryption password(OoIsAwwF32cICQoLDA0ODe==).
 <br>
 You will need .NET Framework to run this software.
 <br>
