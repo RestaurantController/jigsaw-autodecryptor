@@ -1,6 +1,8 @@
 # jigsaw-autodecryptor
 Scans all files and decrypts all files encrypted by Jigsaw
 <br>
+<b>NOTE:</b> Backup your data before decrypting! I am not responsible for any damage.
+<br>
 I know there are a lot of decryptors for Jigsaw but this takes it to a new level. It automatically scans the encrypted files list and decrypts all files.
 <br>
 <h1>Using the decryptor</h1>
